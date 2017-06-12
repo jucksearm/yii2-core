@@ -1,4 +1,4 @@
-[![Packagist Downloads](https://img.shields.io/packagist/dt/jucksearm/php-barcode.svg)](https://packagist.org/packages/jucksearm/php-barcode) [![Stable version](https://img.shields.io/packagist/v/jucksearm/php-barcode.svg)](https://packagist.org/packages/jucksearm/php-barcode) [![License](https://img.shields.io/packagist/l/jucksearm/php-barcode.svg)](https://packagist.org/packages/jucksearm/php-barcode) [![Yii2](https://img.shields.io/badge/Powered_by-Yii_Framework-green.svg?style=flat)](http://www.yiiframework.com/)
+[![Packagist Downloads](https://img.shields.io/packagist/dt/jucksearm/yii2-core.svg)](https://packagist.org/packages/jucksearm/yii2-core) [![Stable version](https://img.shields.io/packagist/v/jucksearm/yii2-core.svg)](https://packagist.org/packages/jucksearm/yii2-core) [![License](https://img.shields.io/packagist/l/jucksearm/yii2-core.svg)](https://packagist.org/packages/jucksearm/yii2-core) [![Yii2](https://img.shields.io/badge/Powered_by-Yii_Framework-green.svg?style=flat)](http://www.yiiframework.com/)
 
 This project extends Yii 2 is a modern framework designed to be a solid foundation for your PHP application.
 

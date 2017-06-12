@@ -3,7 +3,13 @@
     "description": "WEB application base on Yii 2",
     "keywords": ["yii2", "framework"],
     "type": "project",
-    "license": "BSD-3-Clause",
+    "license": "LGPLv3",
+    "authors": [
+        {
+            "name": "jucksearm",
+            "email": "jucksearm.bkk@gmail.com"
+        }
+    ],
     "minimum-stability": "stable",
     "require": {
         "php": ">=5.4.0",
