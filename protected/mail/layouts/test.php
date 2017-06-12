@@ -1,0 +1,1 @@
+<div>This is test mail send at <?php echo date('Y-m-d H:i:s') ;?></div>
