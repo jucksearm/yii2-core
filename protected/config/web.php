@@ -55,6 +55,14 @@ $config = [
             'showScriptName'  => false,
             'rules' => $routes,
         ],
+        ],
+        'i18n' => [
+            'translations' => [
+                'app*' => [
+                    'class' => 'yii\i18n\DbMessageSource',
+                ],
+            ],
+        ],
         'mailer' => [
             'class' => 'yii\swiftmailer\Mailer',
             'useFileTransport' => false,

@@ -2,8 +2,8 @@
 
 return [
 	'class'    => 'yii\db\Connection',
-	'dsn'      => 'mysql:host=127.0.0.1;dbname=yii2db',
-	'username' => 'root',
-	'password' => '',
-	'charset'  => 'utf8',
+	'dsn'      => getenv('DB_DSN'),
+	'username' => getenv('DB_USER'),
+	'password' => getenv('DB_PASS'),
+	'charset'  => getenv('DB_CHAR'),
 ];
