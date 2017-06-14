@@ -55,7 +55,6 @@ $config = [
             'showScriptName'  => false,
             'rules' => $routes,
         ],
-        ],
         'i18n' => [
             'translations' => [
                 'app*' => [
